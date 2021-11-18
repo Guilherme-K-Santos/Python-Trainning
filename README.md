@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Guilherme-K-Santos
-- 👀 I’m interested in learn about programming languages. Im in the first mouth of my university, so im looking for knowledge in all.
+- 👀 I’m interested in learn about programming languages. it's my first mouth in university, so im looking for knowledge at all.
 - 🌱 I’m currently learning python and the start of math in computer
 - 💞️ I’m looking to collaborate on some project that show me a lot of new useful things
 - 📫 How to reach me contact me at the email: guifocassio1@gmail.com 
-
-
+- 🎄 My english is kind weak, but i can understand the most things.
+- 🛰 In my profile have some of my works in university until now.
